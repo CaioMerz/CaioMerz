@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, sou o Caio! 👋
 
-<!--
-**CaioMerz/CaioMerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudo Ciências Econômicas na USCS e tenho experiência prática em rotinas
+fiscais e tributárias. No esctitório, automatizando processos com Python,
+descobri o quanto dados podem transformar a forma de tomar decisões —
+e foi isso que me trouxe até aqui!
 
-Here are some ideas to get you started:
+Hoje estou construindo uma ponte entre minha base em economia e finanças
+e o mundo da análise de dados, com projetos usando como base dados do Banco
+Central e do IBGE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Para onde estou caminhando
+
+Atuar na intersecção entre economia e dados — mercado financeiro, fintechs
+ou qualquer ambiente onde análise quantitativa faça diferença real.
+
+---
+
+## 🚀 O que estou aprendendo agora
+
+- 🐍 Python — pandas, matplotlib, análise de séries temporais
+- 🗄️ SQL — consultas e manipulação de bases de dados financeiras
+- 📊 Visualização com dados reais do Banco Central e IBGE
+
+---
+
+## 🏅 Certificações
+
+- CPA-10 · ANBIMA
+- CPA-20 · ANBIMA
+
+---
+
+## 📍 Santo André, SP — disponível para locomoção

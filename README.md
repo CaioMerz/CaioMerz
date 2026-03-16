@@ -1,4 +1,4 @@
-# Olá, sou o Caio! 👋
+# Caio César Merzbacher 📊
 
 Estudo Ciências Econômicas na USCS e tenho experiência prática em rotinas
 fiscais e tributárias. No esctitório, acabei automatizando alguns processos com Python,

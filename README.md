@@ -1,9 +1,9 @@
 # Olá, sou o Caio! 👋
 
 Estudo Ciências Econômicas na USCS e tenho experiência prática em rotinas
-fiscais e tributárias. No esctitório, automatizando processos com Python,
-descobri o quanto dados podem transformar a forma de tomar decisões —
-e foi isso que me trouxe até aqui!
+fiscais e tributárias. No esctitório, acabei automatizando alguns processos com Python,
+foi ai que descobri o quanto dados e programação podem transformar a forma de tomar decisões
+e realizar processos, foi isso que me trouxe até aqui!
 
 Hoje estou construindo uma ponte entre minha base em economia e finanças
 e o mundo da análise de dados, com projetos usando como base dados do Banco
